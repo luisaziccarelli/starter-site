@@ -31,7 +31,7 @@ $ git remote -v
 5. Type git remote add upstream, and then paste the URL you copied in Step 2 and press Enter. It will look like this:
 
 ```
-$ git remote add upstream https://github.com/octocat/Spoon-Knife.git
+$ git remote add upstream https://github.com/abaulderstone/starter-site
 ```
 
 6. To verify the new upstream repository you've specified for your fork, type git remote -v again. You should see the URL for your fork as origin, and the URL for the original repository as upstream.
