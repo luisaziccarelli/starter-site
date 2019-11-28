@@ -1,1 +1,24 @@
 
+body {
+    background-color: rgb(40, 119, 40);
+}
+
+#landing {
+    background-image: url("../img/funfacts.jpg");
+    background-size: contain;
+    width: 100%;
+}
+
+
+#container {
+    width: 100%;
+}
+
+#landing {
+    height: 100vh;
+}
+
+
+img {
+    width: 50%;
+}
